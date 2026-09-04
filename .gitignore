@@ -1,0 +1,8 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+oauth/.env
+storage/source/*
+storage/temp/*
